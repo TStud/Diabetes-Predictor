@@ -13,6 +13,10 @@ Creating user friendly UI with which users can easily interact and can see wheth
 - Link: https://diab-prediction.herokuapp.com/
 - Dataset: https://www.kaggle.com/uciml/pima-indians-diabetes-database
 
+## Screenshots
+![Image of App](https://theforetech.com/wp-content/uploads/2020/11/screenshot.png)
+
+
 ## Installation
 
 While making this project I used python 3.7. If you are using any lower variant of python then I recommend you to upgrade your python to the latest version by using pip. Once you clone this repository just type this command in the cloned project directory in order to install all the required packages:
