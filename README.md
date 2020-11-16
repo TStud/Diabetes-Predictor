@@ -6,7 +6,7 @@ WebApp made using Flask API deployed on Heroku cloud platform. The Dataset taken
 
 ## Motivation
 
-Creating user friendly UI with which users can easily interact and can see whether they are diabetis patient or not. This deployed project can further be taken to large scale and can be bought in production with more enhancements and advancements. The following project can be considered as the beta or sample version of Diabetes Predictor.
+Creating user friendly UI with which users can easily interact and can see whether they are diabetes patient or not. This deployed project can further be taken to large scale and can be bought in production with more enhancements and advancements. The following project can be considered as the beta or sample version of Diabetes Predictor.
 
 ## Demo
 
